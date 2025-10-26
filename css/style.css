@@ -536,9 +536,9 @@ img {
   height: 40px;
 }
 
-.footer-icon {
-  width: 40px;
-  height: 40px;
+.social-item .footer-icon {
+  width: 24px;
+  height: 24px;
 }
 .backdrop {
   position: fixed;
